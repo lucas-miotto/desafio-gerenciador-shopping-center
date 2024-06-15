@@ -10,12 +10,12 @@ public class Data {
 
         switch (mes) {
             case 1, 3, 5, 7, 8, 10, 12:
-                if(dia < 1 || dia > 31) {
+                if (dia < 1 || dia > 31) {
                     erroData();
                 }
                 break;
             case 4, 6, 9, 11:
-                if(dia < 1 || dia > 30) {
+                if (dia < 1 || dia > 30) {
                     erroData();
                 }
                 break;
@@ -25,7 +25,7 @@ public class Data {
                         erroData();
                     }
                 } else {
-                    if(dia < 1 || dia > 28) {
+                    if (dia < 1 || dia > 28) {
                         erroData();
                     }
                 }

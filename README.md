@@ -11,3 +11,10 @@ Um Shopping pode ter diversas lojas de diferentes segmentos (vestuário, aliment
 Cada "quadrado" representa um determinado espaço no Shopping, que poderá (ou não) ser alugado por alguma loja. No exemplo acima, temos um Shopping com 20 espaços para locação, nomeados de E0 a E20.
 
 Desta forma, você deverá implementar um sistema que gerencie as lojas presentes no shopping, bem como alterações nas lojas, emissões de relatórios e diversos outros aspectos referentes ao assunto.
+
+## 🛠️ Etapas do desafio:
+
+- Etapa 1. Criação de classes;
+- Etapa 2. Associação entre classes;
+- Etapa 3. Herança e Polimorfismo;
+- Etapa 4. Arrays.
