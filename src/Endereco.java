@@ -12,7 +12,6 @@ public class Endereco {
         this.cep = cep;
         this.numero = numero;
         this.complemento = complemento;
-
     }
 
     public String getNomeDaRua() {

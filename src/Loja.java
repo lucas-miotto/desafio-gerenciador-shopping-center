@@ -67,7 +67,6 @@ public class Loja {
                 "\nSalário base dos funcionarios: " + salarioBaseFuncionario +
                 "\nEndereço: " + endereco.toString() +
                 "\nData de fundação: " + dataFundacao.toString();
-
     }
 
     public double gastosComSalario(){
