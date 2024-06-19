@@ -36,7 +36,7 @@ public class Principal {
                     Data dataFundacao = new Data(dia, mes, ano);
 
                     //Criando a loja.
-                    loja = new Loja(nomeLoja, quantidadeFuncionarios, salarioBaseFuncionarios, endereco, dataFundacao);
+                    loja = new Loja(nomeLoja, quantidadeFuncionarios, salarioBaseFuncionarios, endereco, dataFundacao,10);
 
                     break;
                 case 2:
